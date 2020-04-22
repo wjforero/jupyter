@@ -1,0 +1,7 @@
+pyzmq
+Pillow
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
